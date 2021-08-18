@@ -1,5 +1,6 @@
 from geometri.bangun_ruang import BangunRuang
 
+
 class Segitiga(BangunRuang):
 
     def __init__(self, alas, tinggi):

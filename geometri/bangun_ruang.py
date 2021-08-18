@@ -1,5 +1,6 @@
 class BangunRuang():
 
+
     def info(self):
         pass
 
